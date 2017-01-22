@@ -147,6 +147,14 @@ var App = React.createClass({
 
         <br />
 
+        {/*<DateField
+          readOnly={true}
+        >
+          <Calendar
+            highlightWeekends={true}
+            weekNumbers={false}
+          />
+        </DateField>*/}
 
         </div>
     },
